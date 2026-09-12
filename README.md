@@ -1,0 +1,1 @@
+# Actividad-6-Aplicaci-n-de-los-algoritmos-gen-ticos-en-el-aprendizaje-de-m-quina
