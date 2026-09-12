@@ -1,6 +1,6 @@
 # Algoritmos Genéticos aplicados a Machine Learning
 
-**Maestría en Ciencia de Datos — Trabajo aplicado**
+
 **Objetivo del trabajo:** comprender y demostrar, con ejemplos ejecutables, la aplicación de Algoritmos Genéticos (AG) en tres etapas distintas del ciclo de vida de un modelo de Machine Learning:
 
 1. **Feature Selection** — selección de las mejores características.
