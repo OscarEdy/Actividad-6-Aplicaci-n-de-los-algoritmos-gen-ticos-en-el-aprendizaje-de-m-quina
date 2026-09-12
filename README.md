@@ -21,7 +21,7 @@
 
 Cada notebook es **autocontenido**: carga el dataset internamente desde scikit-learn (no depende de archivos externos ni de conexión a internet) y puede abrirse y ejecutarse directamente en **Google Colab** sin instalar nada adicional (usa librerías ya preinstaladas: `numpy`, `pandas`, `scikit-learn`, `matplotlib`, `tensorflow`, `scipy`).
 
-## 2. Dataset utilizado (real)
+## 2. Dataset utilizado 
 
 Para dar continuidad y comparabilidad entre los tres experimentos, se usa el **mismo dataset real** en los tres notebooks:
 
